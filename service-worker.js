@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pig-game/precache-manifest.ae2af43e4222b264f1eae297515c01ef.js"
+  "/pig-game/precache-manifest.6be783838a0f8904216238ed56a229a6.js"
 );
 
 workbox.clientsClaim();
